@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/terribly-tiny-tales-assignment-lpu-shivamsharma/static/css/main.6c8cdc0d.css",
+    "main.js": "/terribly-tiny-tales-assignment-lpu-shivamsharma/static/js/main.7421a4d5.js",
+    "static/js/787.0420ccf9.chunk.js": "/terribly-tiny-tales-assignment-lpu-shivamsharma/static/js/787.0420ccf9.chunk.js",
+    "index.html": "/terribly-tiny-tales-assignment-lpu-shivamsharma/index.html",
+    "main.6c8cdc0d.css.map": "/terribly-tiny-tales-assignment-lpu-shivamsharma/static/css/main.6c8cdc0d.css.map",
+    "main.7421a4d5.js.map": "/terribly-tiny-tales-assignment-lpu-shivamsharma/static/js/main.7421a4d5.js.map",
+    "787.0420ccf9.chunk.js.map": "/terribly-tiny-tales-assignment-lpu-shivamsharma/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c8cdc0d.css",
+    "static/js/main.7421a4d5.js"
+  ]
+}
